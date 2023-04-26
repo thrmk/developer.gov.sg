@@ -1,0 +1,8 @@
+Name=Tailor Brands
+Category=['Designing', 'Logo Generator']
+URL=https://www.tailorbrands.com/logo-maker
+Description=AI Logo Maker | Easily Make a Unique Logo | Tailor Brands By clickingAccept All Cookiesyou accept our Cookie Policy including the storing of cookies on your device to enhance site navigation analyse site usage and assist in Tailors marketing efforts. You can manage your cookie preferences here.Form an LLCLogo MakerProductsBlogAboutSupportSign InEnglishEspaolDeutschFranaisPortugus (Brasil)ItalianoNederlandsPortugus (Portugal)Trke Tailor Brands Logo MakerThe easy way to a unique logo design. Our logo creator uses AI to create custom logos in just a few clicks. Try it for free! Create a logo Easily create a logo for your brandUse Tailor Brands logo generator to create beautiful custom logo designs in just a few minutes. Head over afterwards to our LLC formation page to officialize your business. Designers created with our logo maker come with a full design studio and logo resources so you dont have to go through the hassle of finding a professional designer. You can customize the logo to your exact specifications including unique fonts colors and icons.
+Pros=-Unique designs created with AI algorithm -Easy and intuitive platform -Fully customizable -Loved by businesses -Provides logo ideas for different types of businesses -Receive access to a full design studio -High-resolution logo files included
+Cons=-Limited design choices
+Pricing=Tailor Brands offers a free plan with limited features including one logo design and a mock-up logo image. Starting at $2.99/month premium packages include additional logo designs high-resolution downloads and brand use rights.
+Company Address=404 West 15th Street Suite 870 Austin TX 78701

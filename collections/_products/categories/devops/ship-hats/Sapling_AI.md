@@ -1,0 +1,8 @@
+Name=Sapling AI
+Category=['Customer Support', 'Sales']
+URL=https://sapling.ai/
+Description=Sapling sits on top of CRMs and messaging platforms and provides real-time suggestions to help sales support and success teams more efficiently compose personalized responses. Managers gain conversational insights to coach and prepare teams. Sapling Suggest for chat and helpdesk tickets retrieves relevant responses from a team response bank and allows agents to respond more quickly to customer inquiries by simply clicking on suggested responses in real time. Autocomplete Everywhere provides deep learning-powered autocomplete suggestions across all messaging platforms allowing agents to compose replies more quickly. Saplings snippet macros allow for quick insertion of common responses. Sapling catches 60% more language quality issues than other spelling and grammar checkers using a machine learning system trained on millions of English sentences. Enterprise teams can define custom settings for compliance and content governance. Ensure team knowledge is shared in a snippet library accessible on all web applications. Sapling improves productivity by reducing repetitive messaging tasks for customer-facing teams and faster higher-quality responses means happier customers. Use seamlessly across teams web tools like ServiceNow Salesforce Zendesk Amazon Connect and Twilio Flex.
+Pros=No card required Two-click installation Reduce response and handle time Improve grammar and language quality Beyond suggested edits quality scoring and error reports Distribute knowledge
+Cons=None
+Pricing=Try Sapling for Free Cancel anytime
+Company Address=2023

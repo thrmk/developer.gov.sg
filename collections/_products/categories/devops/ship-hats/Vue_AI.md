@@ -1,0 +1,8 @@
+Name=Vue AI
+Category=['eCommerce']
+URL=https://vue.ai/
+Description=Vue.ai is an AI-powered experience management suite which combines the power of product customer and business intelligence using Computer Vision & NLP. AI & Automation for Retail Retailers across the globe trust our Digital Experience Management (DXM) suite as both their revenue growth driver and their cost saving engine. They use the suite to personalize and curate the customer experience while also enabling end-to-end retail automation across site merchandizing product eCommerce & marketing operations. AI Accurate and organized data is essential for any businesss growth. Vue.ais Intelligent Content Engine can tag eCommerce products with rich attributes and extract meaningful information from images texts and videos. This helps retailers automate data collection and enrichment enabling ROI-driven decision making for a wide range of applications.
+Pros=- AI-powered experience management suite - Combines the power of product customer and business intelligence using Computer Vision & NLP - Intelligent Content Engine for automatic data collection and enrichment - Tag products for easy searchability and discoverability by shoppers - Assess quality of product images to ensure they meet business guidelines in real-time - Automate data extraction and prediction for creating high quality product tags and data - Automate marketing emails and notifications
+Cons=- Limited customization options -
+Pricing=Vue offers several pricing plans depending on the specific needs of businesses. The plans range from $500 to $2000 per month.Company_Address Vue.ai Inc. 420 Lexington Ave 16th Floor New York NY 10170
+Company Address=nan

@@ -1,0 +1,8 @@
+Name=Copysmith
+Category=['AI Writers', 'Product Descriptions', 'Copy Writing', 'Digital Marketing', 'Influencers', 'Education', 'Blog Content', 'Students', 'eCommerce', 'Website Content']
+URL=https://copysmith.ai/
+Description=Copysmith is your solution to Scale your content. Copysmiths AI content generator makes product description writing fast easy and fun. Write and launch SEO focused product descriptions that outrank the competition and convert more shoppers to customers in record time. Our product description generator is built to match specific requirements of existing retail platforms like Amazon eBay Flipkart Etsy and more. Our content rewriter instantly refreshes stale or old content to retain or improve SERPs. In a matter of seconds you can write product descriptions meta tags social media captions email subject lines at scale. Say goodbye to confusion between teams coordinate and stay on top of content with ease by collaborating in real time. Powerful API Integrate with your existing tool stack or proprietary systems to save time by automating basic tasks.
+Pros=Write and launch SEO focused product descriptions that outrank the competition and convert more shoppers to customers in record time Product description generator is built to match specific requirements of existing retail platforms Content rewriter instantly refreshes stale or old content to retain or improve SERPs Write product descriptions meta tags social media captions email subject lines at scale Powerful API integrate with existing tool stack or proprietary systems to save time by automating basic tasks
+Cons=No specific cons mention.
+Pricing=Free to Try
+Company Address=No company address provided.

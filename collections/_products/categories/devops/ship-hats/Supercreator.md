@@ -1,0 +1,8 @@
+Name=Supercreator
+Category=['Video Editing']
+URL=https://supercreator.ai/
+Description=Supercreator.ai Create videos 10x faster with AIYou can use your camera to scan the QR code and get directed to the Supercreator mobile app download page. Create short form videos 10x faster using artificial intelligence. The average time it takes our users to make a video is 3 minutes and the Median amount of videos created per active user is 65+ Videos per month. Supercreator has a User Satisfaction Rating of 4.7/5. It allows users to quickly find and use different green screen backgrounds create script for them and make high quality videos FAST! Supercreator helps one make content faster without compromising quality and also provides extensive content created once the video is ready such as caption hashtags etc. It changes the content creation game and makes it organized faster easier and more stress-free. It combines more than 100 tedious and time-consuming tasks into one simple application to seelp you cut down your video production time by 75%. Supercreator allows users to create evergreen content quickly and also provides AI-powered insights alerts and suggestions.
+Pros=AI-assisted video creation Convert any piece of text into a script Get script suggestions based on your location Create original scripts for videos from any article Automagically get suggested assets for every video you make Create without limits by using Series Go from ideation to creation in a breeze Take care of tedious tasks
+Cons=Limited to short form videos Cost of the platform
+Pricing=Pay As You Go plans starts at $19/month
+Company Address=Supercreator GmbH Greifswalder Str. 1 10405 Berlin Germany

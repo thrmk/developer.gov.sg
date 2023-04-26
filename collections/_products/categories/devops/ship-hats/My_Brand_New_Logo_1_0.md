@@ -1,0 +1,8 @@
+Name=My Brand New Logo 1.0
+Category=['Logo Generator']
+URL=https://mybrandnewlogo.com/
+Description=My Brand New Logo Logo maker Design your brandPlease enable JavaScriptThis website is full of logo magicMy Brand New Logolog in My Brand New Logo how it works pricinglog in enMy Brand New Logodesign your own logo with our automatic logo maker1enter name2review logos3customize itwhats the name of your company?Short names look better on most logos. Can you think of a shorter variation?startyou can use a slogan if you likeShort slogans have more impact. Can you think of a shorter variation?back nextWhats your logo for? back nextup to 3 English keywords describing your companyback nextpick a color or let us surprise yousurprise mepick a colorback create my logosbetalistproduct-huntlifehackery-combinatorfit-small-businessCreate a brand new logoIts easy with our online logo makerYou have an idea for a new business. Exciting times! The best part of starting any business is making it real. And theres nothing that generates more impact than a brand new logo.Our logo maker makes logo design easy by completely automating the logo design process. Its simple with just a couple of clicks you can create your own logo. Our design algorithms make sure your logo always adheres to good logo design.
+Pros=Unique design Smart Shapes Social Media Package Full copyright High-res logos Print-ready scalable logos Examples of what you can do with the logos created Design Principles
+Cons=None
+Pricing=Free to create logo designs only pay once youre happy with your logo and download the full logo package.
+Company Address=nan

@@ -1,0 +1,8 @@
+Name=Structurely
+Category=['Real Estate']
+URL=https://www.structurely.com/industries/real-estate
+Description=This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use see our Privacy Policy. StructurelyProductMulti-Channel CommunicationText message and email messaging combined for the highest conversion ratesScript CustomizationCreate custom scripts that match your brand and sales processAppointment SettingGet high-quality leads scheduled with your sales teamAnalytics & ReportingDrill deep into conversion metrics get custom reports and perform bulk actionsMobile AppiOS or Android app alerts you to hot leads instantly anywhereProduct OverviewSolutionsBy IndustryReal EstateFollow up with buyers sellers and investors within two minutes - 24/7/365InsuranceEngage new insurance leads re-engage customers with lapsed policies revive old leads and moreMortgageInstant response follow-up long-term and qualification for new home loan and refinance leads LeasingImmediately follow up with potential tenants to qualify opportunities IntegrationsStructurely is built to make your CRM work for you. Connect to your CRM in one click and never log into Structurely again.
+Pros=Automating marketing and sales processes increasing engagement and making sure your leads have a positive experience.
+Cons=Not available
+Pricing=Not available
+Company Address=Not available

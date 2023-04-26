@@ -1,0 +1,8 @@
+Name=Wisecut
+Category=['Fun Tools', 'Text To Video', 'Video Editing']
+URL=https://www.wisecut.video/
+Description=Wisecut is an online automatic video editing software that leverages AI and voice recognition to edit videos for you. Harness the power of AI to create engaging videos at lightning speed! Leverage short videos to grow your audience. You can easily turn your long-form talking videos into short impactful clips with music subtitles and auto reframe. These short clips are perfect for platforms like YouTube Shorts TikTok Instagram Reels and Social Ads. Long pauses make even long-format videos awkward. Wisecut identifies these pauses and deletes them automatically. With Wisecut you can also easily improve engagement with automatically generated subtitles and edit them quickly using the Wisecut AI Storyboard tool. And increase viewers with auto-translation into other languages with the click of a button. Not only this Wisecut will automatically pick a song and tailor the music to fit your video. When you are not talking showing B-roll footage for instance or providing a demonstration you want the music to be in the foreground. Wisecut uses AI to balance your audio automatically lowering the music when someone is speaking and increasing it when speech is absent. This will ensure your audience hears what matters most. With Wisecut you can even generate a transcribed storyboard based on your speech where you can edit the video by moving around the text and scenes.
+Pros=Leverage short videos to grow your audience Automatically generated subtitles and edit them quickly Automatic audio ducking Smart background music that fits your video Storyboard-based video editing.
+Cons=None
+Pricing=Free
+Company Address=1000 Brickell Ave Ste 715 Miami FL 33131
